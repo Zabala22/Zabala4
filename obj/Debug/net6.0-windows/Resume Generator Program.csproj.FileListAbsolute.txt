@@ -1,0 +1,18 @@
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\Resume Generator Program.exe
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\Resume Generator Program.deps.json
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\Resume Generator Program.runtimeconfig.json
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\Resume Generator Program.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\Resume Generator Program.pdb
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume Generator Program.csproj.AssemblyReference.cache
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume_Generator_Program.Resumegenerator.resources
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume_Generator_Program.Properties.Resources.resources
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume Generator Program.csproj.GenerateResource.cache
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume Generator Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume Generator Program.AssemblyInfoInputs.cache
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume Generator Program.AssemblyInfo.cs
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume Generator Program.csproj.CoreCompileInputs.cache
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume Generator Program.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\refint\Resume Generator Program.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume Generator Program.pdb
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume Generator Program.genruntimeconfig.cache
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\ref\Resume Generator Program.dll
