@@ -44,9 +44,21 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "dependencies": {
+            "Aspose.PDF": {
+              "target": "Package",
+              "version": "[22.7.0, )"
+            },
+            "Json.Net": {
+              "target": "Package",
+              "version": "[1.0.33, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[7.2.3, )"
             }
           },
           "imports": [
