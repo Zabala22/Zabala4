@@ -4,7 +4,6 @@ C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bi
 C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\Resume Generator Program.dll
 C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\Resume Generator Program.pdb
 C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume Generator Program.csproj.AssemblyReference.cache
-C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume_Generator_Program.Resumegenerator.resources
 C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume_Generator_Program.Properties.Resources.resources
 C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume Generator Program.csproj.GenerateResource.cache
 C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume Generator Program.GeneratedMSBuildEditorConfig.editorconfig
@@ -24,3 +23,23 @@ C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bi
 C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
 C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
 C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\itext.barcodes.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\itext.forms.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\itext.io.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\itext.kernel.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\itext.layout.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\itext.pdfa.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\itext.sign.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\itext.svg.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\itext.commons.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\Json.Net.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\zabal\source\repos\Resume Generator Program\Resume Generator Program\obj\Debug\net6.0-windows\Resume_Generator_Program.Resumegenerator.resources
