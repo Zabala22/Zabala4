@@ -1,0 +1,57 @@
+{
+  "about": {
+    "summary": "I am Emmanuel Zabala Emman a college student from School University of the Philippines, and as a Computer Engineering student, I am very suitable for your company in the graphic designing department because I am very skilled at using Adobe Photoshop based on your qualifications. I can help this company since I already had and experience doing graphic design for other websites."
+  },
+  "basics": {
+    "name": "Emmanuel Zabala Emman",
+    "email": "emmanuelzabala@emman.com",
+    "phone": "(0000)-000-0000",
+    "title": "Graphic Designer",
+    "website": "emman.com",
+    "address": "000 N. Perez St. Barangay Pansol, Quezon City"
+},
+  "work": {
+      "company": "Emman Company",
+      "position": "School Supplies Jobber",
+      "website": "emmanzabala.com",
+      "startDate": "April 0000",
+      "endDate": "May 0000",
+      "summary": "Trained as a team player, Adapted to the environment with different kinds of people, Trained to work on time",
+      "highlights": [
+        "Focused on finding inspirations for my art.",
+        "Focused on drawing using apps and gadgets that I have.",
+        "Learned Adobe InDesign, Illustrator, and Photoshop"
+      ]
+    },
+  "education":
+    {
+      "institution": "School University of the Philippines",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "October 2021",
+      "endDate": "August 2025"
+    },
+  "skills": [
+    {
+      "name": "Strong communication and interpersonal skills",
+      "level": "5",
+      "keywords": [
+        "Team, Time, Solving"
+      ]
+    },
+    {
+      "name": "Very organized and detail-oriented",
+      "level": "5",
+      "keywords": [
+        "Proficient in Adobe InDesign, Illustrator, & Photoshop"
+      ]
+    },
+    {
+      "name": "Very organized and detail-oriented",
+      "level": "5",
+      "keywords": [
+        "Proficient in Adobe InDesign, Illustrator, & Photoshop"
+      ]
+    }
+  ]
+}
